@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+div{
+    padding: 5px 0 5px 0;
+    background-color: rgb(211, 250, 153);
+}
